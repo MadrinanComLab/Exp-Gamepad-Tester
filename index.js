@@ -1,5 +1,3 @@
-console.log("POTAENA");
-
 let controller_index = null;
 
 window.addEventListener("gamepadconnected", (event) => {
