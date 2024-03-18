@@ -92,7 +92,7 @@ Since the buttons and axes were stored in an array, it was difficult to identify
 Stay tuned for upcoming projects and experiments by following me on the following accounts:
 <p float="left">
   <a href="https://twitter.com/MadrinanComLab">
-  <img src="https://user-images.githubusercontent.com/74145874/219954290-0afa8626-f2b5-44a9-8130-1ccce187ac06.png" width="50px" title="Twitter"/>
+  <img src="https://github.com/MadrinanComLab/Exp-Gamepad-Tester/assets/74145874/909ecc75-fad8-4e85-b4f9-38951f9b73a9" width="50px" title="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/john-clifford-madri%C3%B1an-3b5ba222a/">
   <img src="https://user-images.githubusercontent.com/74145874/219954352-03919daf-97cf-4639-80a8-dab307ad1964.png" width="50px" title="Linkedin"/>
